@@ -46,7 +46,7 @@ social-network-links:
 #  youtube: 
 #  medium: 
 #  reddit: 
-#  linkedin: joanspon
+  linkedin: joanspon
 #  xing: yourname
 #  stackoverflow: "3"
 #  snapchat: 
@@ -80,7 +80,7 @@ footer-links-active:
   twitter: true
  # google-scholar: true
  # telephone: true
- # linkedin: true
+  linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
