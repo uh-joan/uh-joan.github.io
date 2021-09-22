@@ -1,7 +1,7 @@
 ---
+title: # 👋 Hello there, I'm Joan
 ---
 
-# 👋 Hello there, I'm Joan
 I am a passionate, enthusiastic product/UX designer with programming skills and academic background who enjoys working in a challenging environment.
 
 I make sure to keep up to date with the latest technology and best practices to create the best possible experience for users.
