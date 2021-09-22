@@ -1,6 +1,10 @@
+---
+title: Experience
+---
+
 # Principal UX/UI Designer at [Clarivate](https://clarivate.com/), London, UK.
 * Sep 2019 - Now
-* The [Cortellis](https://www.cortellis.com) family products: Cortellis [Drug Discovery Intelligence](https://www.cortellis.com/drugdiscovery), Cortellis Clinical Trials Intelligence, Cortellis Competitive Intelligence, Cortellis Deals Intelligence, Cortellis Regulatory Intelligence, Cortellis Digital Health Intelligence, Cortellis [Chemical Manufacturing and Control](https://www.cortellis.com/cmc/home), Cortellis [Generics Intelligence](https://www.cortellis.com/generics), Cortellis [Supply Chain Network](https://www.cortellis.com/supplychain/), Cortellis [Drug Research Analysis](https://www.cortellis.com/dra), [Key Path Analysis](https://apps.clarivate.com/kpa/login), [Metacore](https://portal.genego.com/)
+* Products: The [Cortellis](https://clarivate.com/cortellis) suite; Cortellis [Drug Discovery Intelligence](https://clarivate.com/cortellis/solutions/pre-clinical-intelligence-analytics/#), Cortellis [Clinical Trials Intelligence](https://clarivate.com/cortellis/solutions/trials-intelligence-analytics/), Cortellis [Competitive Intelligence](https://clarivate.com/cortellis/solutions/competitive-intelligence-and-analytics/), Cortellis [Deals Intelligence](https://clarivate.com/cortellis/solutions/deals-intelligence-analytics/), Cortellis [Regulatory Intelligence](https://clarivate.com/cortellis/solutions/regulatory-intelligence-solutions/), Cortellis Digital Health Intelligence, Cortellis [Chemical Manufacturing and Control](https://clarivate.com/cortellis/solutions/chemistry-manufacturing-controls-intelligence-analysis/) Intelligence, Cortellis [Generics Intelligence](https://clarivate.com/cortellis/solutions/generics-intelligence-analytics/), Cortellis [Supply Chain Network](https://www.cortellis.com/supplychain/), Cortellis [Drug Research Analysis](https://www.cortellis.com/dra), Cortellis [Key Path Analysis](https://apps.clarivate.com/kpa/login), [Metacore](https://clarivate.com/cortellis/solutions/early-research-intelligence-solutions/) a Cortellis solution, [Bioworld](https://clarivate.com/cortellis/solutions/bioworld/)
 * Description of work:
   - line 1
   - line 2
