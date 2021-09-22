@@ -17,8 +17,8 @@ remove-ads: true
 navbar-links:
   Experience: "experience"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Prototypes: "portfolio"
+    - Use cases: "usecases"
 
 # --- Logo --- #
 
