@@ -6,7 +6,7 @@ I am a passionate, enthusiastic product/UX designer with programming skills and 
 
 I make sure to keep up to date with the latest technology and best practices to create the best possible experience for users.
 
-I am comfortable both leading and working in a multidisciplinary and international team, listening and learning from my colleagues. I constantly strive to improve my skills and share what I have learned with others, and best of all have fun!
+I am comfortable both leading and working in a multidisciplinary and international team, listening and learning from my colleagues. I constantly strive to improve my skills and share what I have learned with others, and best of all have fun! 😛 
 
 # 🔧 General day to day
 * Provide direction, leadership, and guidance to members of the User Experience team and ensure the team has a high level of morale.
@@ -20,6 +20,9 @@ I am comfortable both leading and working in a multidisciplinary and internation
 * Collaborate with other team members such as Business Analysts, Software Developers, Product Managers, Customer Success, Training and stakeholders to arrive at the most appropriate solution.
 * Regularly communicate and engage relevant team members to elicit feedback and build a shared understanding of user needs, business needs and design direction.
 * Maintain design consistency, champion and feedback on our Design System.
+
+# 💼 Working experience
+A full working experience [list](/experience.md).
 
 # 🚀 Toolset
 ### 💎 UI/UX
@@ -44,18 +47,15 @@ I am comfortable both leading and working in a multidisciplinary and internation
 * **MSc** Automatics and Control Engineering. Rovira i Virgili University, Tarragona, Spain.
 * **BEng** in Industrial Electronics Engineering. Rovira i Virgili University, Tarragona, Spain.
 
-# 💼 Working experience
-A full working experience [list](/experience.md).
-
 # 📚 OTHER
 * Over 40+ [scientific articles](https://scholar.google.com/citations?user=pQxNXVsAAAAJ) published in journals, international conferences and workshops with 450+ citations.
 * Member of [Leaders of Awesomeness](/https://leaders.centercentre.com/) community by Jared Spool, completed intensive courses, i.e. Advanced Approaches to UX Research, Experience Vision
 * Clarivate First Mile - New Leader Program, Issued by [Harvard Business Publishing Corporate Learning](/https://www.harvardbusiness.org/)
-* Fluent in English (ACE), Catalan and Spanish language. German. Level B, 1.1.
+* Fluent in English (ACE), Catalan and Spanish language. German, Level B, 1.1.
 
 # 🚒 SOFT SKILLS
 * Ability to efficiently and clearly communicate ideas.
 * Ability to reliably plan and estimate development time requirements.
 * Capacity of putting out fires in startups environments.
 * Continuously challenge and teach myself in personal projects.
-* Comfortable with abrupt change to project deadlines and the local gravity field 😎.
+* Comfortable with abrupt change to project deadlines and the local gravity field 😎
