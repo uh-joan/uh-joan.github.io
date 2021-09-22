@@ -1,5 +1,3 @@
-## Portfolio
-
 A curated list of UX/UI and coding resources.
 
 
