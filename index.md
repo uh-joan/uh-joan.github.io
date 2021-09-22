@@ -1,5 +1,5 @@
 ---
-title: # 👋 Hello there, I'm Joan
+title: 👋 Hello there, I'm Joan
 ---
 
 I am a passionate, enthusiastic product/UX designer with programming skills and academic background who enjoys working in a challenging environment.
