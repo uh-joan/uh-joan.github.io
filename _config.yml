@@ -45,13 +45,13 @@ social-network-links:
 #  youtube: 
 #  medium: 
 #  reddit: 
-  linkedin: joanspon
+#  linkedin: joanspon
 #  xing: yourname
 #  stackoverflow: "3"
 #  snapchat: 
 #  instagram: 
 #  spotify: 
-  telephone: +44(0)7955858749
+#  telephone: +44(0)7955858749
 #  steam: 
 #  twitch: 
 #  yelp: 
@@ -59,7 +59,7 @@ social-network-links:
 #  calendly: 
 #  mastodon: 
 #  ORCID: 
- google-scholar: pQxNXVsAAAAJ
+# google-scholar: pQxNXVsAAAAJ
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -77,9 +77,9 @@ footer-links-active:
   github: true
   email: true
   twitter: true
-  google-scholar: true
-  telephone: true
-  linkedin: true
+ # google-scholar: true
+ # telephone: true
+ # linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
