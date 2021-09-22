@@ -1,5 +1,3 @@
-[📧](mailto:joanspon@gmail.com) [🐙](github.com/uh-joan) [💼](https://www.linkedin.com/in/joanspon/) [🎓](https://scholar.google.com/citations?user=pQxNXVsAAAAJ) [🐤](https://twitter.com/joans_ux)
-
 # Principal UX/UI Designer at [Clarivate](https://clarivate.com/), London, UK.
 * Sep 2019 - Now
 * The [Cortellis](https://www.cortellis.com) family products: Cortellis [Drug Discovery Intelligence](https://www.cortellis.com/drugdiscovery), Cortellis Clinical Trials Intelligence, Cortellis Competitive Intelligence, Cortellis Deals Intelligence, Cortellis Regulatory Intelligence, Cortellis Digital Health Intelligence, Cortellis [Chemical Manufacturing and Control](https://www.cortellis.com/cmc/home), Cortellis [Generics Intelligence](https://www.cortellis.com/generics), Cortellis [Supply Chain Network](https://www.cortellis.com/supplychain/), Cortellis [Drug Research Analysis](https://www.cortellis.com/dra), [Key Path Analysis](https://apps.clarivate.com/kpa/login), [Metacore](https://portal.genego.com/)
