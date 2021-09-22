@@ -16,9 +16,10 @@ remove-ads: true
 
 navbar-links:
   Experience: "experience"
-  Resources:
-    - Prototypes: "portfolio"
-    - Use cases: "usecases"
+  Use Cases: "usecases"
+#  Resources:
+#    - Prototypes: "list"
+#    - Use cases: "usecases"
 
 # --- Logo --- #
 
@@ -52,7 +53,7 @@ social-network-links:
 #  snapchat: 
 #  instagram: 
 #  spotify: 
-#  telephone: +44(0)7955858749
+  telephone: +44(0)7955858749
 #  steam: 
 #  twitch: 
 #  yelp: 
@@ -79,7 +80,7 @@ footer-links-active:
   email: true
   twitter: true
   google-scholar: true
- # telephone: true
+  telephone: true
   linkedin: true
 
 # How to display the link to your website in the footer
