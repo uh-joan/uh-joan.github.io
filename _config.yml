@@ -60,7 +60,7 @@ social-network-links:
 #  calendly: 
 #  mastodon: 
 #  ORCID: 
-#  google-scholar: pQxNXVsAAAAJ
+  google-scholar: citations?user=pQxNXVsAAAAJ&hl=en
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -78,7 +78,7 @@ footer-links-active:
   github: true
   email: true
   twitter: true
- # google-scholar: true
+  google-scholar: true
  # telephone: true
   linkedin: true
 
