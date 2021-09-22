@@ -1,5 +1,3 @@
-// Dean Attali / Beautiful Jekyll 2020
-
 var BeautifulJekyllJS = {
 
   bigImgEl : null,
@@ -136,7 +134,5 @@ var BeautifulJekyllJS = {
     });
   }
 };
-
-// 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);
