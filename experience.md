@@ -7,8 +7,17 @@
 * Sep 2019 - Now
 * Products: The [Cortellis](https://clarivate.com/cortellis) suite; Cortellis [Drug Discovery Intelligence](https://clarivate.com/cortellis/solutions/pre-clinical-intelligence-analytics/#), Cortellis [Clinical Trials Intelligence](https://clarivate.com/cortellis/solutions/trials-intelligence-analytics/), Cortellis [Competitive Intelligence](https://clarivate.com/cortellis/solutions/competitive-intelligence-and-analytics/), Cortellis [Deals Intelligence](https://clarivate.com/cortellis/solutions/deals-intelligence-analytics/), Cortellis [Regulatory Intelligence](https://clarivate.com/cortellis/solutions/regulatory-intelligence-solutions/), Cortellis Digital Health Intelligence, Cortellis [Chemical Manufacturing and Control](https://clarivate.com/cortellis/solutions/chemistry-manufacturing-controls-intelligence-analysis/) Intelligence, Cortellis [Generics Intelligence](https://clarivate.com/cortellis/solutions/generics-intelligence-analytics/), Cortellis [Supply Chain Network](https://www.cortellis.com/supplychain/), Cortellis [Drug Research Analysis](https://www.cortellis.com/dra), Cortellis [Key Path Analysis](https://apps.clarivate.com/kpa/login), [Metacore](https://clarivate.com/cortellis/solutions/early-research-intelligence-solutions/) a Cortellis solution, [Bioworld](https://clarivate.com/cortellis/solutions/bioworld/)
 * Description of work:
-  - line 1
-  - line 2
+  - Provide direction, leadership, and guidance to members of the User Experience team and ensure the team has a high level of morale.
+  - Helping the business grow by finding the best balance between the user experience strategy and business goals.
+  - Educate, coach and mentor the organization in design research and lean experimentation and apply cutting edge methods and principles across lean startup, design thinking, qualitative and quantitative research, lean and agile principles, exploratory and participatory research, contextual inquiry, heuristic assessment, survey instruments, usability testing, and related techniques.
+  - Lead and participate on collaborative workshops (with internal stakeholders and with external customers) for a different research purposes, e.g. discovery planning, personas, prioritisation, assumption maps, journey maps, etc.
+  - Make informed design decisions by working with UX Researchers to incorporate research findings into iterative designs to develop testable prototypes/designs.
+  - Knowledge of how design impacts engineering and business and vice versa, with the ability to construct interactive designs that are technically feasible.
+  - Familiarity with agile development processes and experience in software cycle from concept to production.
+  - Take an active role in shaping roadmaps, features, and designs by communicating user insights and design rationale to the wider team and stakeholders.
+  - Collaborate with other team members such as Business Analysts, Software Developers, Product Managers, Customer Success, Training and stakeholders to arrive at the most appropriate solution.
+  - Regularly communicate and engage relevant team members to elicit feedback and build a shared understanding of user needs, business needs and design direction.
+  - Maintain design consistency, champion and feedback on our Design System.
 
 # Senior UX Designer at [Clarivate](https://clarivate.com/), London, UK.
 * Feb 2018 – Sep 2019
