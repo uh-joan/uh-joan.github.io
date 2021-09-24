@@ -4,7 +4,7 @@ title: 👋 Hello there, I'm Joan
 
 I am a passionate, enthusiastic UX researcher and product designer with programming skills and academic background who enjoys working in a challenging environment.
 
-I make sure to keep up to date with the latest technology and best practices to create the best possible experience for users.
+I embrace user feedback and usage data to help the business balancing the user experience strategy and business goals. I make sure to keep up to date with the latest technology and best practices to create the best possible experience for users.
 
 I am comfortable both leading and working in a multidisciplinary and international team, listening and learning from my colleagues. I constantly strive to improve my skills and share what I have learned with others, and best of all have fun! 😛 
 
