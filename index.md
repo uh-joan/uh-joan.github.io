@@ -36,14 +36,14 @@ Find more details in [the working experience](/experience.md) 💼
 * DevOps fundamentals: AWS, Heroku, DigitalOcean
 
 # 🎓 Education
-* **[PhD](https://www.dropbox.com/s/kgv7g5y0ni1wtnm/SaezThesisShort.pdf)** in Computer Science. Sheffield Hallam University, Sheffield, UK. Thesis entitled “Experiments in Human Multi-Robot Systems”.
+* **[PhD](https://www.dropbox.com/s/kgv7g5y0ni1wtnm/SaezThesisShort.pdf){:target="_blank" rel="noopener"}** in Computer Science. Sheffield Hallam University, Sheffield, UK. Thesis entitled “Experiments in Human Multi-Robot Systems”.
 * **MSc** Automatics and Control Engineering. Rovira i Virgili University, Tarragona, Spain.
 * **BEng** in Industrial Electronics Engineering. Rovira i Virgili University, Tarragona, Spain.
 
 # 📚 OTHER
 * Over 40+ [scientific articles](https://scholar.google.com/citations?user=pQxNXVsAAAAJ){:target="_blank" rel="noopener"} published in journals, international conferences and workshops with 450+ citations.
-* Member of [Leaders of Awesomeness](/https://leaders.centercentre.com/) community by Jared Spool, completed intensive courses, i.e. Advanced Approaches to UX Research, Experience Vision
-* Clarivate First Mile - New Leader Program, Issued by [Harvard Business Publishing Corporate Learning](/https://www.harvardbusiness.org/)
+* Member of [Leaders of Awesomeness](/https://leaders.centercentre.com/){:target="_blank" rel="noopener"} community by Jared Spool, completed intensive courses, i.e. Advanced Approaches to UX Research, Experience Vision
+* Clarivate First Mile - New Leader Program, Issued by [Harvard Business Publishing Corporate Learning](/https://www.harvardbusiness.org/){:target="_blank" rel="noopener"}
 * Fluent in English (ACE), Catalan and Spanish language. German, Level B, 1.1.
 
 # 🚒 SOFT SKILLS
