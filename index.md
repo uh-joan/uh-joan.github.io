@@ -14,7 +14,7 @@ I am comfortable both leading and working in a multidisciplinary and internation
 * Take an active role in shaping roadmaps, features, and designs by communicating user insights and design rationale to the wider team and stakeholders.
 * Collaborate with other team members such as Business Analysts, Software Developers, Product Managers, Customer Success, Training and stakeholders to arrive at the most appropriate solution.
 
-For more information see [the working experience](/experience.md) 💼 
+Find more details in [the working experience](/experience.md) 💼 
 
 
 # 🚀 Toolset
