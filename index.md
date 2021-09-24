@@ -41,7 +41,7 @@ Find more details in [the working experience](/experience.md) 💼
 * **BEng** in Industrial Electronics Engineering. Rovira i Virgili University, Tarragona, Spain.
 
 # 📚 OTHER
-* Over 40+ [scientific articles](https://scholar.google.com/citations?user=pQxNXVsAAAAJ) published in journals, international conferences and workshops with 450+ citations.
+* Over 40+ [scientific articles](https://scholar.google.com/citations?user=pQxNXVsAAAAJ){:target="_blank" rel="noopener"} published in journals, international conferences and workshops with 450+ citations.
 * Member of [Leaders of Awesomeness](/https://leaders.centercentre.com/) community by Jared Spool, completed intensive courses, i.e. Advanced Approaches to UX Research, Experience Vision
 * Clarivate First Mile - New Leader Program, Issued by [Harvard Business Publishing Corporate Learning](/https://www.harvardbusiness.org/)
 * Fluent in English (ACE), Catalan and Spanish language. German, Level B, 1.1.
