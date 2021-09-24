@@ -16,7 +16,7 @@ remove-ads: true
 
 navbar-links:
   Experience: "experience"
-  Use Cases: "usecases"
+  Use Cases: "https://blog.joans.work"
 #  Resources:
 #    - Prototypes: "list"
 #    - Use cases: "usecases"
