@@ -12,6 +12,7 @@ remove-ads: true
 navbar-links:
   Experience: "experience"
   Blog: "https://blog.joans.work"
+  Download CV: "https://github.com/uh-joan/uh-joan.github.io/raw/main/joan_CV.pdf"
 #  Resources:
 #    - Prototypes: "list"
 #    - Use cases: "usecases"
